@@ -1,7 +1,5 @@
 # Hubot: Dr. Steven Brule
 
-Access your GitHub Enterprise instance through Hubot.
-
 ## Installation
 
 In your hubot project repo, run:
@@ -29,9 +27,10 @@ export BRULE_STAGGERED_REPLY=false
 ## Sample Interaction
 
 ```
-user1>> hubot ghe license
-hubot>> GHE has 20 seats, and 7 are used. License expires at 2015-07-01T00:00:00-07:00
+user1>> I need a pritza!
+hubot>> Jackprot!
 
-user1>> hubot ghe stats users
-hubot>> 11 users, 2 admins and 4 suspended.
+user1>> brules rules
+hubot>> Does your milk taste sour when you take a sip of it? 
+hubot>> Just check the expiration date dummy.
 ```
