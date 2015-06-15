@@ -1,0 +1,23 @@
+{
+  "name": "hubot-drstevenbrule",
+  "version": "1.0.0",
+  "description": "Dr. Steven Brule quotes for your hubot",
+  "main": "index.coffee",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jonjaques/hubot-drstevenbrule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonjaques/hubot-drstevenbrule/issues"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.3"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "jonjaques",
+  "license": "ISC"
+}
