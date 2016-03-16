@@ -4,7 +4,7 @@
 
 In your hubot project repo, run:
 
-`npm install hubot-ghe --save`
+`npm install hubot-drstevenbrule --save`
 
 Then add **hubot-drstevenbrule** to your `external-scripts.json`:
 
